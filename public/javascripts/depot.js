@@ -741,7 +741,7 @@ function delate(){
 
 function play_sound()
 {
-	 var music_src =music_list[parseInt(Math.random()*3)];
+	 var music_src =music_list[parseInt(Math.random()*1)];
     _audio2.src = music_src ;
     if (isvoice) {
     	_audio2.loop=true;
