@@ -13,7 +13,7 @@ This's a toy but it's my first time to work with HTML5.
 
 ![screen shot 2017-11-01 at 12 27 09 pm](https://user-images.githubusercontent.com/1459834/32260076-8403c8a6-be93-11e7-90b0-0c7e1a8db0df.png)
 
-![screen shot 2017-11-01 at 12 23 28 pm](https://user-images.githubusercontent.com/1459834/32260083-8b42d6e8-be93-11e7-84b9-7c87d8b865a3.png)
+![screen shot 2017-11-01 at 12 44 16 pm](https://user-images.githubusercontent.com/1459834/32260377-8db0a84a-be95-11e7-9d76-3dac6940601c.png)
 
 ## Browser support
 
